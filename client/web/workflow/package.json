@@ -42,7 +42,7 @@
     "mxgraph": "^4.2.0",
     "portal-vue": "^2.1.7",
     "v-jsoneditor": "^1.4.2",
-    "vue": "2.7.16",
+    "vue": "3.0.0",
     "vue-native-websocket": "^2.0.15",
     "vue-router": "3.1.5",
     "vuedraggable": "^2.23.0",
@@ -77,6 +77,6 @@
     "stylelint-webpack-plugin": "^5.0.1",
     "vue-eslint-parser": "^9.4.3",
     "vue-template-compiler": "2.7.16",
-    "webpack": "^5.97.1"
+    "webpack": "^5.104.1"
   }
 }

@@ -27,13 +27,13 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/vue-fontawesome": "^2.0.10",
     "@panter/vue-i18next": "^0.15.0",
-    "axios": "^1.8.3",
+    "axios": "^1.13.5",
     "bootstrap-vue": "2.23.1",
     "i18next": "^23.16.8",
     "i18next-browser-languagedetector": "^3.0.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "portal-vue": "^2.1.7",
-    "vue": "2.7.16",
+    "vue": "3.0.0",
     "vue-native-websocket": "^2.0.15",
     "vue-router": "^3.4.9",
     "vue-split-panel": "^1.0.4",
@@ -71,7 +71,7 @@
     "stylelint-webpack-plugin": "^5.0.1",
     "vue-eslint-parser": "^9.4.3",
     "vue-template-compiler": "2.7.16",
-    "webpack": "^5.97.1"
+    "webpack": "^5.104.1"
   },
   "stylelint": {
     "plugins": [

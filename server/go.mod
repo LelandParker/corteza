@@ -1,6 +1,6 @@
 module github.com/cortezaproject/corteza/server
 
-go 1.24.1
+go 1.25.0
 
 // This is useful when testing changes on corteza-locale
 // and you do not want to push on every change in the locale repo
@@ -72,10 +72,10 @@ require (
 	go.uber.org/atomic v1.9.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/crypto v0.31.0
-	golang.org/x/image v0.18.0
+	golang.org/x/image v0.38.0
 	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.16.0
-	golang.org/x/text v0.21.0
+	golang.org/x/text v0.35.0
 	google.golang.org/grpc v1.61.1
 	google.golang.org/protobuf v1.32.0
 	gopkg.in/mail.v2 v2.3.1
